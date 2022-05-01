@@ -1,3 +1,3 @@
 # ekrim.github.io
 
-start Akram.ink
+# start akram.ink
